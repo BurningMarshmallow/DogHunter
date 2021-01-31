@@ -1,6 +1,6 @@
 Dog Hunter
 ==============
-Программа убирает удаленных пользователей из ваших друзей.
+VK API App for removing deleted users from your friends
 
-### Пример запуска: 
+### Launch with: 
  `python3 main.py`
